@@ -1,0 +1,18 @@
+Alanine	4.1
+Arginine	1.72
+Aspartic Acid	9.02
+Cystine	1.8
+Glutamic Acid	14.8
+Glycine	1.15
+Histidine	1.39
+Isoleucine	5.25
+Leucine	8.69
+Lysine	7.87
+Methionine	1.8
+Phenylalanine	2.46
+Proline	4.51
+Serine	3.77
+Threonine	5.49
+Tryptophan	1.15
+Tyrosine	2.13
+Valine	4.84
